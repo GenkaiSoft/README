@@ -1,0 +1,15 @@
+[submodule "GenkaiyaReversi"]
+	path = GenkaiyaReversi
+	url = https://github.com/GenkaiSoft/GenkaiyaReversi
+[submodule "GenkaiyaBot"]
+	path = GenkaiyaBot
+	url = https://github.com/GenkaiSoft/GenkaiyaBot
+[submodule "Braincord"]
+	path = Braincord
+	url = https://github.com/GenkaiSoft/Braincord
+[submodule "GenkaiSoft.github.io"]
+	path = GenkaiSoft.github.io
+	url = https://github.com/GenkaiSoft/GenkaiSoft.github.io
+[submodule "apt-brain"]
+	path = apt-brain
+	url = https://github.com/GenkaiSoft/apt-brain
